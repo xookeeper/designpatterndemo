@@ -5,6 +5,8 @@ public class Main {
 //        ParentClass parent = ParentClass.getInstance();
         ChildClass child = ChildClass.getInstance();
 
+        System.out.println("demo for git merge conflict");
+
 
     }
 }
